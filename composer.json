@@ -1,5 +1,5 @@
 {
-    "name": "php-open-source-saver/jwt-auth",
+    "name": "amos-yau/jwt-auth",
     "description": "JSON Web Token Authentication for Laravel and Lumen",
     "keywords": [
         "auth",
@@ -8,10 +8,10 @@
         "jwt",
         "laravel"
     ],
-    "homepage": "https://github.com/PHP-Open-Source-Saver/jwt-auth",
+    "homepage": "https://github.com/amos-yau/jwt-auth",
     "support": {
-        "issues": "https://github.com/PHP-Open-Source-Saver/jwt-auth/issues",
-        "source": "https://github.com/PHP-Open-Source-Saver/jwt-auth"
+        "issues": "https://github.com/amos-yau/jwt-auth/issues",
+        "source": "https://github.com/amos-yau/jwt-auth"
     },
     "license": "MIT",
     "authors": [
